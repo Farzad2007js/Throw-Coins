@@ -1,0 +1,13 @@
+@media screen and (max-width: 576px){
+    .message{
+        font-size: 200%;
+    }
+
+    #btn{
+        font-size: 22px;
+    }
+
+    #btn2{
+        font-size: 22px;
+    }
+}
